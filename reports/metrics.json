@@ -1,0 +1,9 @@
+{
+  "model": "RandomForestClassifier (Ensemble 180 Trees)",
+  "Accuracy": 0.8406,
+  "Weighted_F1": 0.8406,
+  "Precision": 0.8408,
+  "Recall": 0.8406,
+  "ROC_AUC": 0.9273,
+  "CV_5Fold_Mean_Accuracy": 0.8391
+}
